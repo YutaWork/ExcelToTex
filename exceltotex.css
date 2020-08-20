@@ -11,7 +11,10 @@ html{
 }
 
 .btn:hover{
-    background-color:#cfcfcf;
+    background-color:#ebebeb;
+}
+.btn:active{
+    background-color: rgb(201, 201, 201);
 }
 
 .btn p{
